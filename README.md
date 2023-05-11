@@ -1,1 +1,1 @@
-# fundamentos_basicos_puthon
+# Fundamentos básicos de Python
