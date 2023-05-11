@@ -1,0 +1,72 @@
+# -*- coding: utf-8 -*-
+# Permitir assentos na palavras
+
+# Primeiro comentário
+print("Olá Mundo!")
+
+"""
+comentários
+de
+várias linhas
+"""
+print("Segunda linha: Olá Mundo!")
+
+# Operações matématicas
+print("Operações matématicas:")
+print(2 + 2)
+print(2 - 2)
+print(2 * 2)
+print(10 / 3)
+print(10 % 3)
+
+#Variáveis
+print("Variáveis:")
+var1 = "Olá Mundo!" #string
+var2 = 1 #integer
+var3 = 1.1 #float
+var4 = True #boolean
+
+print(var1)
+print(var2)
+print(var3)
+print(var4)
+
+#Operadores Relacionais
+x = 2
+y = 3
+
+soma = x + 2
+
+print("Operadores Relacionais:")
+print(x == y)
+print(x != y)
+print(soma > y)
+print(soma >= y)
+print(soma < y)
+print(soma <= y)
+
+#Operadores Lógicos
+x = 3
+y = 3
+z = 4
+soma = x + y
+
+print("Operadores Lógicos:")
+print(x == y and x == soma)
+print(x == y and x == z)
+print(x == y or x == z)
+print(x == y or x == z and z == y)
+print(z == y and x  == y or x == z)
+
+#Estruturas Condicionais
+x = 1
+y = 10000000
+
+print("Estruturas Condicionais:")
+
+if x > y:
+	print("x é maior que y")
+else:
+	print("y é maior que x")
+
+
